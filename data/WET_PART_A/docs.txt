@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>D1</DOCNO>
+<TEXT>
+The Nobel Prize (Swedish : Nobelpriset)  is a Swedish prize, established in the 1895 will of Swedish chemist Alfred Nobel; it was first awarded in Peace, Literature, Chemistry, Physiology or Medicine, and Physics in 1901.
+The Nobel Prize is regarded as the most prestigious prize in the world by far.
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO>D2</DOCNO>
+<TEXT>
+IBM corporation started with the IBM 1410, a member of the  IBM 1400 series, was a variable wordlength decimal computer that was announced by IBM on September 12 1960 and marketed as a midrange "Business Computer".
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO>D3</DOCNO>
+<TEXT>
+Burroughs was always a distant second to IBM commercially if not technologically.  At the same time, Burroughs was very much a competitor in which these two corporations tried to supply a complete answer for its customers. This included providing Burroughs-designed printers, disk drives, tape drives, etc., computer paper, and even typewriter ribbons.
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO>D4</DOCNO>
+<TEXT>
+Biography Stefania Gabriella Germanotta (AKA Lady GaGa) was born in March 1986, in New York, to an Italian family. She attended Convent of the Sacred Heart school and, as a little girl, she remembers singing into a plastic tape recorder to the likes of   Cyndi Lauper and Michael Jackson. 
+By age 4, Lady Gaga had taught herself to play the piano by ear, and when she was a teenager she penned her first song.
+</TEXT>
+</DOC>

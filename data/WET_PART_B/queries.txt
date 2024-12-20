@@ -1,0 +1,151 @@
+051	 airbus  subsidies 
+052	 south  african  sanctions 
+053	 leveraged  buyouts 
+054	 satellite  launch  contracts 
+055	 insider  trading 
+056	 prime  lending  rate  moves  predictions 
+057	 mci 
+058	 rail  strikes 
+059	 weather  related  fatalities 
+060	 merit  pay  seniority 
+061	 israeli  role  iran  contra  affair 
+062	 military  coups  d  etat 
+063	 machine  translation 
+064	 hostage  taking 
+065	 information  retrieval  systems 
+066	 natural  language  processing 
+067	 politically  motivated  civil  disturbances 
+068	 health  hazards  fine  diameter  fibers 
+069	 attempts  revive  salt  ii  treaty 
+070	 surrogate  motherhood 
+071	 border  incursions 
+072	 demographic  shifts 
+073	 demographic  shifts  national  boundaries 
+074	 conflicting  policy 
+075	 automation 
+076	 constitution  original  intent 
+077	 poaching 
+078	 greenpeace 
+079	 frg  political  party  positions 
+080	 1988  presidential  candidates  platforms 
+081	 financial  crunch  televangelists  wake  ptl 
+082	 genetic  engineering 
+083	 measures  protect  atmosphere 
+084	 alternative  renewable  energy  plant  equipment  installation 
+085	 official  corruption 
+086	 bank  failures 
+087	 criminal  actions  officers  failed 
+088	 crude  oil  price  trends 
+089	 downstream  investments  opec  member  states 
+090	 data  proven  reserves  oil  natural  gas 
+091	 army  acquisition  advanced  weapons  systems 
+092	 international  military  equipment  sales 
+093	 backing  national  rifle  association 
+094	 computer  aided  crime 
+095	 computer  aided  crime  detection 
+096	 computer  aided  medical  diagnosis 
+097	 fiber  optics  applications 
+098	 fiber  optics  equipment  manufacturers 
+099	 iran  contra  affair 
+100	 controlling  transfer  high  technology 
+101	 design  star  wars  anti  missile  defense  system 
+102	 laser  research  applicable  s  strategic  defense 
+103	 welfare  reform 
+104	 catastrophic  health  insurance 
+105	 black  monday 
+106	 control  insider  trading 
+107	 japanese  regulation  insider  trading 
+108	 japanese  protectionist  measures 
+109	 find  innovative  companies 
+110	 black  resistance  south  african  government 
+111	 nuclear  proliferation 
+112	 funding  biotechnology 
+113	 new  space  satellite  applications 
+114	 non  commercial  satellite  launches 
+115	 impact  1986  immigration  law 
+116	 generic  drug  substitutions 
+117	 capacity  cellular  telephone  network 
+118	 international  terrorists 
+119	 actions  international  terrorists 
+120	 economic  impact  international  terrorism 
+121	 death  cancer 
+122	 rdt  e  new  cancer  fighting  drugs 
+123	 research  control  carcinogens 
+124	 alternatives  traditional  cancer  therapies 
+125	 anti  smoking  actions  government 
+126	 medical  ethics  modern  technology 
+127	 ussr  arms  control  agreements 
+128	 privatization  state  assets 
+129	 soviet  spying 
+130	 jewish  emigration  ussr  relations 
+131	 mcdonnell  douglas  contracts  military  aircraft 
+132	 stealth  aircraft 
+133	 hubble  space  telescope 
+134	 human  genome  project 
+135	 possible  contributions  gene  mapping  medicine 
+136	 diversification  pacific  telesis 
+137	 expansion  theme  park  industry 
+138	 iranian  support  lebanese  hostage  takers 
+139	 iran  s  islamic  revolution  domestic  foreign  social 
+140	 political  impact  islamic  fundamentalism 
+141	 japan  s  handling  trade  surplus 
+142	 impact  government  regulated  grain  farming  international 
+143	 protect  farmers 
+144	 management  problems  united  nations 
+145	 influence  pro  israel  lobby 
+146	 negotiating  end  nicaraguan  civil  war 
+147	 productivity  trends  economy 
+148	 conflict  horn  africa 
+149	 industrial  espionage 
+150	 political  campaign  financing 
+151	 coping  overcrowded  prisons 
+152	 accusations  cheating  contractors  defense  projects 
+153	 insurance  coverage  pays  long  term  care 
+154	 oil  spills 
+155	 right  wing  christian  fundamentalism 
+156	 efforts  enact  gun  control  legislation 
+157	 causes  treatments  multiple  sclerosis 
+158	 term  limitations  members  congress 
+159	 electric  car  development 
+160	 vitamins  cure  cause 
+161	 acid  rain 
+162	 automobile  recalls 
+163	 vietnam  veterans  agent  orange 
+164	 generic  drugs  illegal  activities  manufacturers 
+165	 tobacco  company  advertising  young 
+166	 standardized  testing  cultural  bias 
+167	 regulation  showing  violence  explicit 
+168	 financing  amtrak 
+169	 cost  garbage  trash  removal 
+170	 consequences  implantation  silicone  gel 
+171	 mutual  funds  individual  s 
+172	 effectiveness  medical  products 
+173	 smoking  bans 
+174	 hazardous  waste  cleanup 
+175	 nra  prevention  gun  control  legislation 
+176	 real  life  private  investigators 
+177	 english  official  language 
+178	 dog  maulings 
+179	 u  s  restaurants  foreign  lands 
+180	 ineffectiveness  embargoes  sanctions 
+181	 abuse  elderly  family  members  medical 
+182	 commercial  overfishing  creates  food  fish  deficit 
+183	 asbestos  related  lawsuits 
+184	 corporate  pension  plans  funds 
+185	 reform  welfare  system 
+186	 difference  learning  levels  inner 
+187	 signs  demise  independent  publishing 
+188	 beachfront  erosion 
+189	 real  motives  murder 
+190	 instances  fraud  involving  computer 
+191	 efforts  improve  schooling 
+192	 oil  spill  cleanup 
+193	 toys  r  dangerous 
+194	 amount  money  earned  writers 
+195	 stock  market  perturbations  attributable 
+196	 school  choice  voucher  system  effects 
+197	 reform  jurisprudence  system 
+198	 gene  therapy  benefits 
+199	 legality  medically  assisted  suicides 
+200	 impact  foreign  textile  imports 
+
