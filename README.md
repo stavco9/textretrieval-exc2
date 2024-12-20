@@ -1,3 +1,4 @@
+<pre>
 Please unzip the file AP_Coll.tgz into the folder "database" <br />
 The folder structure should be <br />
 database/ <br />
@@ -11,3 +12,4 @@ database/ <br />
                 Disk3/ <br />
                       AP/ <br />
                          APXXXXX <br />
+</pre>
